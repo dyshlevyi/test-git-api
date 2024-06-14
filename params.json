@@ -65,7 +65,7 @@
       "python": {
         "mode": "EXPLICIT_ENV",
         "preventOverride": false,
-        "envName": "py310"
+        "envName": "py39"
       },
       "r": {
         "mode": "INHERIT",
